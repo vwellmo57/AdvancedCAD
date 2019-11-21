@@ -10,3 +10,6 @@ I started by creating all of the necessary equations, by the way, PI, is pie. Th
 #### The Box
 The box is fairly straightforward. I started by making the subassemblies and then putting them all in a large assembly. Then I mated the together with good tooth spacing. After I did that I made the plate that holds it all together. This helped a lot because it ensures good spacing. Finally, for your gear mates make sure to make your ratio the two pitch diameters of the gears meshing, the auto-filled ratio will not work in my experience. 
 
+
+https://youtu.be/R1nDLtnvtC0
+
