@@ -1,4 +1,4 @@
-# Intermediate CAD
+# Advanced CAD
 ## Assignments such as Gears, Gear Box, Motion Study, and Stress Analysis 
 
 ### Gear/Gearbox:
